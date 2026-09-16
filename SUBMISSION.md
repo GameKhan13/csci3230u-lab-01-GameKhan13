@@ -9,11 +9,11 @@ Hayden Robinson - your full name
 
 ## What I learned
 
-Nothing yet?? - two or three sentences on something that clicked this lab
+I learned how to add rulesets to the repo. Additionally PR were explained and demoed better - two or three sentences on something that clicked this lab
 
 ## A Git command I will remember
 
-add, when i changed files and need to update them - name one command and say, in a sentence, when you'd reach for it
+stash, the best command for when i hate what i did and someone did it better - name one command and say, in a sentence, when you'd reach for it
 
 ## Evidence (links)
 
